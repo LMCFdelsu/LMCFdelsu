@@ -1,0 +1,42 @@
+/*body{
+	background:#00e6e6;
+}*/
+p{
+	color: purple;
+}
+.vision{
+	 background-color:orange;
+    color:#ffffff;
+    padding:5px 8px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: 1px solid #3079ed
+    margin:5px 8px;
+}
+.mission{
+	 background-color:orange;
+    color:#ffffff;
+    padding:5px 8px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: 1px solid #3079ed
+   
+}
+
+#mission{
+background: #666666;
+color: #fff;
+}
+
+#jumbo{
+	background: black;
+}
+
+/*@media only screen and (max-width: 200px) {
+    body {
+        background-color: red;
+    }
+    .col-md-8 {
+    	
+    }
+}*/
